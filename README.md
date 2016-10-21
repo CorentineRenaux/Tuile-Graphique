@@ -2,10 +2,10 @@
 
 CFA-CFC de Mont-Saint-Aignan
 
-## Objectif ## :
+## Objectif :
 Changer l’apparence visuelle du site internet du Centre de formation continue et par alternance (http://cfa-cfc.univ-rouen.fr) en y ajoutant de nouvelles fonctionnalités et en répondant aux dernières références en matière de développement Web.
 
-## Activités ou missions confiées ## :
+## Activités ou missions confiées :
 1) Analyse préalables : Environnement (moyens humains, matériels, contraintes) et moyens, Analyse de l’existant, Analyse des besoins)
 2) Veille concurrentielle
 3) Optimisation de l’arborescence par la détermination d'un parcours utilisateur
